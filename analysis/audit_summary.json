@@ -1,0 +1,32 @@
+{
+  "files": 582,
+  "with_headings": 144,
+  "without_headings": 438,
+  "families_heuristic": {
+    "line_wrapped_document_candidate": 71,
+    "research_text_candidate": 129,
+    "prose_or_other": 281,
+    "report_or_chronology_candidate": 33,
+    "access_site_shell_or_listing": 18,
+    "research_metadata_page": 14,
+    "guideline_site_page": 36
+  },
+  "flags": {
+    "reconstruct_wrapped_lines_before_chunking": 231,
+    "line_end_hyphenation": 219,
+    "control_characters": 100,
+    "soft_hyphen": 40,
+    "review_access_shell": 18,
+    "strip_portal_chrome_preserve_metadata": 14,
+    "review_guideline_navigation_or_index": 36,
+    "short_extract_review": 3,
+    "replacement_character": 2
+  },
+  "exact_duplicate_groups": 4,
+  "exact_duplicate_extra_copies": 20,
+  "unique_exact_contents": 562,
+  "normalized_duplicate_groups": 4,
+  "normalized_duplicate_extra_copies": 20,
+  "P_files": 39,
+  "P_with_exact_D_match": 3
+}
