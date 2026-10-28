@@ -1,0 +1,44 @@
+{
+  "review_type": "source-content retrieval review, not clinical validation",
+  "scope": "Targets were read in the supplied Markdown. They do not establish clinical correctness, completeness, current validity, or an exhaustive relevance set.",
+  "queries": {
+    "pulmonary tuberculosis treatment": {
+      "expected_files": ["P21.md", "P49.md"],
+      "evidence": "P21 Treatment lines 28–36; P49 TB regimen/eligibility table with extraction caveat."
+    },
+    "postpartum hemorrhage management": {
+      "expected_files": ["P23.md"],
+      "evidence": "P23 management text, lines 18–89. Missing table/figure content requires warning."
+    },
+    "tuberculose traitement": {
+      "expected_files": ["P22.md"],
+      "evidence": "P22 Traitement, lines 27–35."
+    },
+    "malaria treatment pregnancy": {
+      "expected_files": ["Dea6c3f0f10.md"],
+      "evidence": "Line 3 pharmacokinetics abstract is relevant research background, NOT a treatment protocol.",
+      "guidance_gap": "No substantive malaria-in-pregnancy protocol found among the 70 reviewed guideline-labelled sources."
+    },
+    "mental health refugees": {
+      "expected_files": ["D802e76ecc1.md"],
+      "evidence": "Lines 1–11 directly describe refugee mental-health care in Nauru; activity narrative, not a treatment protocol."
+    },
+    "antibiotic resistance surveillance": {
+      "expected_files": ["D8ad70d7749.md"],
+      "evidence": "Lines 784–802 discuss antimicrobial-resistance surveillance implementation / Mini-Lab."
+    },
+    "Cholera treatment guidelines for children with severe dehydration": {
+      "expected_files": [],
+      "guidance_gap": "No substantive matching protocol found among the 70 reviewed guideline-labelled files. Da4bda80d2e.md is an appendix index; Dc95675e997.md is a cover/PDF notice. Broader reports may discuss the subject."
+    },
+    "measles complications children": {
+      "expected_files": [],
+      "guidance_gap": "Reviewed measles guideline-labelled sources are introductions/indexes rather than the requested complications protocol. This does not assert absence of every relevant mention in the corpus."
+    },
+    "P24.md": {
+      "expected_files": ["P24.md"],
+      "required_warning": "missing_drug_identity",
+      "evidence": "Exact source lookup must retain the warning that the medicine name is absent from this monograph extract."
+    }
+  }
+}

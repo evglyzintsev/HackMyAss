@@ -1,0 +1,13 @@
+# Implementation verification — 2026-10-29
+
+The checked local package is in `Documents/Artificial-Ignorance generated`, moved from the earlier `HackMyAss` path. Startup uses `./run_local.sh`; model/index paths resolve relative to the package. Original source filenames still map directly to PDF identifiers.
+
+- All 73 Python tests passed, including real E5/reranker tests with outbound socket connections blocked. Tests cover conservative query-field extraction, negation, explicit edits/removals, combined metadata filters on the same source alias, passage/evidence synchronization, invalid model outputs, explicit fallback, multilingual position preservation, source hashes/line spans, duplicates, and pagination.
+- `node tests/test_ui.js` passed with no npm dependencies. It checks that automatic hints do not rewrite the query, edits/removals reach retrieval, new requests clear old fields, and stale responses cannot overwrite current state.
+- Live localhost HTTP checks passed: real hybrid search and English reranking returned P21 first for pulmonary TB treatment; 48 candidate documents were pageable beyond ten without duplicates. French-filtered retrieval retained P22. Explicit field edits, blank removals, per-query reranker toggle, original source opening, and the unexpected-Host rejection were verified.
+- `validate_hybrid.py` completed with socket connections blocked: 35,111 normalized vectors cover 21,951 passages, CPU serving is active, every one of 582 source-file hashes matches the index, and cross-language source retrieval/pagination checks pass. Supplied CSV has no Git diff.
+- `evaluate.py --hybrid --rerank` completed all 15 smoke queries in hybrid mode without vector or reranker failure. The compatibility guard applied the English reranker to three requests, skipped eleven short/uncertain/non-English requests, and bypassed it for the filename lookup. Skips retain hybrid order and are exposed in the response. Timings are local observations, not weak-laptop guarantees.
+
+The query-field parser uses local rules, not a generative interpreter. The optional AI component is an English passage cross-encoder. Source preference only nudges retrieval; explicit language/genre controls are the hard metadata filters. The model does not establish medical correctness, source currency, or completeness. P24's medicine identity remains unknown and visibly flagged; no test assigns it a drug name.
+
+Model folders, virtual environment, derived indexes, and detailed local benchmark reports stay outside Git. Their pinned download/build commands are in the README. Source files and queries were not uploaded, and no remote Git push was performed.

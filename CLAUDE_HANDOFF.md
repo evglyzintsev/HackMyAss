@@ -1,5 +1,7 @@
 # Offline clinical document search: implementation handoff
 
+> Earlier planning brief retained for corpus context. The current implementation (including later optional passage reranking) and run commands are documented in [README.md](README.md).
+
 ## Goal and deadline
 
 Build a working offline document search prototype for doctors in crisis zones. Budget: approximately three hours. Example query: "Cholera treatment guidelines for children with severe dehydration". Return relevant source passages and let users open the source document. Do not generate medical answers.

@@ -1,0 +1,8 @@
+# Tested local vector runtime (Python 3.10, macOS arm64).
+# Keyword-only retrieval still works with the Python standard library.
+numpy==2.2.6
+sentence-transformers==5.7.0
+torch==2.14.1
+# The 1.15.3 macOS wheel failed to load here; 1.14.1 is verified locally.
+scipy==1.14.1
+langid==1.1.6

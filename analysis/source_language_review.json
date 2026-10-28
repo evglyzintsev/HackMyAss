@@ -1,0 +1,4655 @@
+{
+  "scope": "Offline text-language audit, not clinical validation. Supplied CSV is unchanged.",
+  "files": {
+    "D00a47577ef.md": {
+      "raw_hash": "06b0a1787de1b26df912abdceda9c932b9b5b93532c8a77d51aeee32f58d4205",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D00acff0abd.md": {
+      "raw_hash": "9320530d3035c2f08e6d115be2673cc60c737babbbf600c56f64960aa83bfc4c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D00f74bcaf7.md": {
+      "raw_hash": "b455c0f5adaddd54bf2027deb06a4e85ce0e79d8c9e3b3e6647dad0a7772ca4a",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D012ed396fd.md": {
+      "raw_hash": "cb13205a699f0bc50aa2ebdf3dff4a7d91626139c3ff5dee08925ab36c941763",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D014f7e7bf4.md": {
+      "raw_hash": "1a9cd5fb8a24760fc30d83fd2d5b55e8bc5e6676ceb465798971f122ebba02b6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0197c14ba0.md": {
+      "raw_hash": "faf4973742dfc633277a3246ae4d12b477c13ec4f884e32192146a1170b73033",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D02dab61f41.md": {
+      "raw_hash": "faec2ddeccc5523cea49ecbe8efe6535737440dcfc30d686db3119d2d4cee94b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D030d37cd08.md": {
+      "raw_hash": "61e5dcb77d6869abe1f7a8b62faf9ad609ce098fa19768c505a4b5c0cbb4ff02",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D035530810c.md": {
+      "raw_hash": "554dc8a8b6f5cd125aec0e3c0a900cbd90af8a0a551d9d6c5f1f37d07dee5fcb",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D037e4f1dc8.md": {
+      "raw_hash": "2b0e3ce881a1b90f14e90eac5fe6c72d96d883a303ff2d8aab4859255136f2e8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D03b100b562.md": {
+      "raw_hash": "439c62451079c103bcb101e76f62b4dccded1876b1a79e157f607ab2bbee8679",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D03da2066dd.md": {
+      "raw_hash": "0c6b2b8d952c5ddadd17aeeb8fd7d58da2079f106057743e03fa4411525df8af",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D04304ea6c4.md": {
+      "raw_hash": "682bb84ffdea45129a4fabec0732690b7b11718c4f85c0a9fe58313f08fc5051",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D04be07fbc1.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D04c8ff52a2.md": {
+      "raw_hash": "319e6205d266b1e28f4cb9263964f874cf4a9d21788900d1484e8fb04d8532c8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0513ca68ff.md": {
+      "raw_hash": "a68e1dd0310c5d18a687ddbfc8e15176d8a6d3bf5e8c03c7e1f1b48b57ab62eb",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D054bcedd1a.md": {
+      "raw_hash": "9a5b4bde32edb9c05c49ac5c32c42467ae4aaa93ab28fadaa0fa8384fe6e6a42",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0648397364.md": {
+      "raw_hash": "f90eb7b90de8bd95eb16c2bfed0e482d80f95ce67840e623159bd0881c39a829",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D06b13d3006.md": {
+      "raw_hash": "f15f79fff2d60d1c835a2460e3a92eb04547204dc76e063c7a3af899d9990238",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D07afa7fbd7.md": {
+      "raw_hash": "cea16539843a6c4ef2e12e110dd4b42527f619a201d00239da6a707f483257af",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D081f681b26.md": {
+      "raw_hash": "a5d7a534538805daf002d7a88eb5336358fc630f60d6da46b6ce928eb0d7ae3c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0858e37568.md": {
+      "raw_hash": "33713b3b0665d583c8c75cbe48327a011035602e5b90a7faf2f7119338e3743c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D08b1166a91.md": {
+      "raw_hash": "815280f42d4d38515c3fb96facb5d9348dc2b4bf4b69bfb3f9988b32f14e0f36",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D096f85888f.md": {
+      "raw_hash": "ad9a664a59c26c9ab804dee6c648d6179e90bb6d3ae119ac6c43dd683419adb2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D09c3654e6e.md": {
+      "raw_hash": "9d6b037fa969548af64dfb01efdebe21a704253631d92aec474272e43d19d735",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0a172b79a4.md": {
+      "raw_hash": "9c02fdc07aca8b1ae5b8d22b2337bb0412873af656e766711c192c61cc3faee3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0ae7cceef7.md": {
+      "raw_hash": "6c9517ad6b9c81fd0292a695ea7a6a4747f87740576a2f03db519b86c44aeb59",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0bd9567695.md": {
+      "raw_hash": "8126cef94c8e6023f5ce0dc0c6799d5f2c5f62052d4d2c9920dc0a8610cade9a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0c85bc1b4a.md": {
+      "raw_hash": "4c5fd79b4ed9ce690b4f5e5a4e434f9b4852d3e4c894c6df540b04b67bae492d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0c8b8c1868.md": {
+      "raw_hash": "2c5a40d28cb26f6660bd2ada2c48ca73c562cc4a80978dd70693bd9a41640d40",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0c937b9312.md": {
+      "raw_hash": "cd2134432deda641e06c66e6e960066e4322074bb4dbba11307d079518a4d202",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0db6bc77dd.md": {
+      "raw_hash": "682946a4b14dc880f8a26e8ae85fa49430f62c0fa80ab131e9fbd0be821251f3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0ea302e15b.md": {
+      "raw_hash": "420936726c8af88d032e72a0a33cc068e4f217e475b713100dcb726e0671f638",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0eebba4c05.md": {
+      "raw_hash": "daa46dfffae6743d019dc77d92df1e46e5522153b491fc65ae0f5cf0e2e8ab80",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0f43c42fa1.md": {
+      "raw_hash": "f52ad7e6caa094c57c4ca0788fbe272a3285e3da5913bb30838f553d881676ea",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0f4ce98344.md": {
+      "raw_hash": "5dc1725f13cf32da671b31f1b82c5e914b1d0e6653df4137546d2fd836622a43",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D0fdc1d0ef5.md": {
+      "raw_hash": "521efeb69637ce3b569a0c38d1d357b954fb803a7f232429062a56c4c157dbe8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D0fe93f344c.md": {
+      "raw_hash": "71fc3503a044741fdeeac616e23b942061f48816faa1265e49a0fce1995e2d3c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D10d6a75496.md": {
+      "raw_hash": "fa8d78d3ba22c08df83fa160d174a6cfe86810f67465cb1b812358aa5345e1be",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D10e20f5f7e.md": {
+      "raw_hash": "31ebec9468c9aa856fbf5aee580d73bc997b394dee256032821ce37c34f5b936",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D111832613c.md": {
+      "raw_hash": "6352f9dde386a99eaeb72e6610b77c948768f5e8c2fc47a61dc5207462b74b21",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D11201a228a.md": {
+      "raw_hash": "d89988c6e75bfaaf9a6de7acbc2244624e5cbe7a716354dc122ba4c2519f54ff",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D115e2a4293.md": {
+      "raw_hash": "a2ec86a97aefe95f09ecc48ea26937781088aeb1b5b8b5c5a499db7b91a41d8a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D11a2c3c63d.md": {
+      "raw_hash": "1425a398e638a9396e740345f0b378652ddb96a4d4b5c470f0f7c49a4a757d39",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D11d5ccb181.md": {
+      "raw_hash": "2465c94769b94736df89b6ce3faee3de8029cdb2c4dff11ce56db60d136d5624",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D12eb6a44ae.md": {
+      "raw_hash": "076ec6ed95476a7917ab599b2efc1d48de18eab227b305c0085a42ac1d580805",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D13381c1c34.md": {
+      "raw_hash": "ac8033443c182dd0447ddee57ef03626c1edcc59ad50a04e5ef6a5e071566965",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D13a0eeb8c5.md": {
+      "raw_hash": "67489c50d4c03497b262a7f25def5fce0c7824b06a914edcbd08bb5de459922d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D13b1b3785f.md": {
+      "raw_hash": "26c62db02c92c6ddec44f1379db239df0779ab9b73b3fa04f1a1a822b99aea8d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D148a9f7246.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D1498e1b466.md": {
+      "raw_hash": "ee2ebd233184317f278d4029bc733165f649c16d07b6608e311d894665be558e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D15481ba1fa.md": {
+      "raw_hash": "ac74285ee9114a716b6863d223418a62c80899efca2f066425ff41910c43a426",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1598c72a1b.md": {
+      "raw_hash": "0484fac196e33880e8da133f4f9aef668d337416110add6fe166baa74595de6b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D16048816a2.md": {
+      "raw_hash": "18d2388dd3c663bd7538811a181cbb3d8caf5282758bec9eb639f9190a488f1f",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D160b2d96cd.md": {
+      "raw_hash": "6c9a90a51f07e0b36cc100281435fe993dd71b1669b4614854dd29c258e554c6",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D162ba1334d.md": {
+      "raw_hash": "bce90fde3b8b470ace68aef924864f43987023931240419d9dd8c5cc5e81d7dc",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D16794eb94d.md": {
+      "raw_hash": "c20e3ae9ccac868b8de46ce16299fb279630fcb7e8c2d2d6492ca9ee11b8c102",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D17890cad99.md": {
+      "raw_hash": "02512b4959fbfa570c879424ab2ff2f3cf99f5461d44243ac9281a4509262875",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D17bf4184ef.md": {
+      "raw_hash": "2bdb7ed62931cc07cd50864e6e26dd7cf84eba9aaef074a17d65cdab85f5a5e4",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D17e499ac0a.md": {
+      "raw_hash": "09195cd8d64c50fc1bb24b267794f616bc32163a963fcdf7d64b8a835881d8d4",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D199715052e.md": {
+      "raw_hash": "d728f274e53d7a403cf644a13c4abd2b01601e855994fabd429aa1491a71189b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D19b04b35f2.md": {
+      "raw_hash": "292f11abded2bf50ea2c7622af42c63854e3cef130165572104bc11253e088aa",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1a668dca00.md": {
+      "raw_hash": "e5808b166f4a5b88173db601c66a6977f1bf0a04979daf251fde8a41cce14542",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1a691de7c0.md": {
+      "raw_hash": "32720e8bf94c218000db451115eabb1633eac736f1156e33f12e45bbcc4e539f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1acecedd02.md": {
+      "raw_hash": "6b20b9e28cf3f7f658ae9a3e70a977e63a4ecf1d0d253a1a8f4cb91a4ecf785c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1b06b6e33c.md": {
+      "raw_hash": "dcee24a21264d3881737463be77b36411cb7fa2a16796f517b43b8da9ea40a5f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1b539fd0a2.md": {
+      "raw_hash": "84ab78a16f85daa4c6773527f88f964298e27d62bcd33f8cbde262c646101e59",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D1bcc414c13.md": {
+      "raw_hash": "336c7efaa1bea64c87e04b7aefb9cc0421020e53516e84e50719c078d6162112",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1c2515fd29.md": {
+      "raw_hash": "d8ac325f420d823eca0f91b7bf62515012fc9faf629e5ff1ac5543e5c909b257",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1c586e6f70.md": {
+      "raw_hash": "217efc0c924bd3d4bed5656e7ba108f361be4929e646c502c7eb2e64e739bf18",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1c730f5fe6.md": {
+      "raw_hash": "1e87d0cb12d0b3beb2a2abedac4c633f0d9cf94dbfb41aaa4d4f4b0cc5128d84",
+      "supplied_language": "en",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    "D1e6522c5c3.md": {
+      "raw_hash": "d369cea624af68f7dc06788bc7555ac164259ddc401a50a0ea0db04035ca6442",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1e6ed5c563.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D1ef8b2e740.md": {
+      "raw_hash": "a1f64dba28d7a17e0f28e5042489209489e0e1d6d13a6208090cb660e5b36df1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1fa284e16c.md": {
+      "raw_hash": "9b1715eeba26bbcf0916c0ff5879f82b23cf1aa69aaf6194ab50542adcc372b7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D1fd995f42e.md": {
+      "raw_hash": "ccbacb9f70a2a10235fb9277aa129d5f34085e2949da433c58590dc67c381d7a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D209c19f741.md": {
+      "raw_hash": "93cd06393c587e3c302f9097d75ff05c0b3bda23c3bcb466c08ae75033d3583e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D20cfb5ee60.md": {
+      "raw_hash": "8b49c096c65c516ae6c501f5278ca02332d2da5405e445ebc9f3e4d8ed05306d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D20de515bc6.md": {
+      "raw_hash": "4c712d1f3d139d45df223fde7c88162caf4f08d1edd48771c1838c1f60471031",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D221a40d307.md": {
+      "raw_hash": "7352b8e6660fb47cd2e08a476a7a2564a6f21e0a4e970c06233fb7c64f0432d0",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D227872fd4e.md": {
+      "raw_hash": "8a207e5d330f026f0ff568cdd5527c927e59f6ef07f45d76e34ed78fba23b6cf",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2306bbff2b.md": {
+      "raw_hash": "5dae259888f5e695ee16496e4add914a1fa7438b737ad0828abd69250a939682",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D232e32b0aa.md": {
+      "raw_hash": "606e10912c3e9f360058abd86a0ce1e1b96d951d17662c8e4dd794cb96e94fbc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D236dc184a5.md": {
+      "raw_hash": "f593d96b2aefa0e6d8c7fb4fa47d7af8a6de657252e2e53318f23d3f61b6f3ee",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D23be77d49e.md": {
+      "raw_hash": "5e28ee9c261833bded4ddadc04bfda2a25c2372a22e5677dd0d1c9564f5f4412",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D23e1d9311c.md": {
+      "raw_hash": "66c2187f53025a2265b8059e45b307277313760940964db6b7be556fe62957d3",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D24a2c98ae3.md": {
+      "raw_hash": "e216500ab57e6fea5c12e141c7528df971b1db00104aab980b3b5f0b33a37e50",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D24b3269713.md": {
+      "raw_hash": "142f99cb6100ae1b6249c301f546cf317d577ad4b9868983c13290d33fae49c3",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D24b54ce36a.md": {
+      "raw_hash": "8191608bb5ef26c5e89ff3d7d158e0e4b10f0688be54b00d5682fd1216f403ef",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D25c399e2a3.md": {
+      "raw_hash": "08629b1face21664a3d8f7a8a9944bbfb7a65aafcd3505836a8481df330c8b1b",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D26f2cdf4c2.md": {
+      "raw_hash": "fac8c5ed5b9bb43d23123486d86b7b5c930ababee71fc428ed12f587560853d2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D270ed35e75.md": {
+      "raw_hash": "f409cf9d4715b7d5772cec9233e012ae36da0588288d09fdd10a1d09fafd9bde",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2764b19112.md": {
+      "raw_hash": "78fd02fc2e094d452bc7330ac49a91d824460e74eb2993acb6dd948ecb3d5811",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D279e1306ba.md": {
+      "raw_hash": "59b5901d326d328abf70d635c525c5d5123161f835514054a7b061e0d638e652",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D279f7b3d6d.md": {
+      "raw_hash": "2a9ab929859e95bd1f5563b251e0d124317561aa7e1e41cbf35bc8555d8c9daa",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D285604a37d.md": {
+      "raw_hash": "1de84bc693725120e6f4021b1acedc1389ed475a750d9c27c1122d77e97a2987",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D28f2e6484c.md": {
+      "raw_hash": "4927e570417ceabc45d250348841bb7b6f7d2b052fb47db0c79b20ee433bf057",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D292411330b.md": {
+      "raw_hash": "40b447236fba09e9a8b6050bdab7bfb0848e5157d1870e5aad10a3b2fb2e4d3d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2ad107ffa2.md": {
+      "raw_hash": "e726e43b408954f8e0ba43043b4d90c21be38a64d9baca46b5656af2c4bdfe6e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2b2708f82d.md": {
+      "raw_hash": "b9ceae1116d4fe9a47f16e1f72d08a15222b9d7e80e0b2eb688071678b8cf186",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2c4fd3394c.md": {
+      "raw_hash": "825562ab34badcf06141fb6e3118443abbd2dca750b2cc376c80098cd11267d2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2c9bd90636.md": {
+      "raw_hash": "ce32f5c99c2ee9c877d211390cf7b3e543a6476a36db2276914f87673f2886d6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2ca802fb9f.md": {
+      "raw_hash": "00dbb525e99e9ce57f637d2537a91f0369e40e50cb2947c0c8ed12d243bc3861",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2ce13192e8.md": {
+      "raw_hash": "d25c70e15f1d986677acd531638627e5fddad9ca68f57ada83eec71d7ae31093",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2e11dee055.md": {
+      "raw_hash": "d252c728608c219ac2ac9a86679cf72c2c8f2f71d938f9ffe473a588de2602b6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2e6fdb1638.md": {
+      "raw_hash": "e5bde9f30ea2b7d3cba0c513d2c9700a34773dfffca9c7c00fa98228f2740e7a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D2fc6ab5472.md": {
+      "raw_hash": "602139dc683fc4f4f541163e02b4e2b5753f008c524d232f3310ae0de82fc106",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3201fea5f5.md": {
+      "raw_hash": "303b3eddb35c677261fa081779715486692af4b76c4f755eb31f468489bf570c",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D3207862e09.md": {
+      "raw_hash": "5f531b21e1b70b2a7ed56ead3a302a01f4df37ddd0edd9fb1b87a36ba98b4d2e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3260fee68c.md": {
+      "raw_hash": "079c8dc60657a0afe2805b6406df9d2933f4d8d344349e4431a08ffe5b15f7de",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D32ea4a9d92.md": {
+      "raw_hash": "3a37ad3a107f18c389f461353da5612ca0de901560392f536f2b3dbeb047d80d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D332fd5febc.md": {
+      "raw_hash": "19f196c7014d89004b0942330291eac96cfb8766958bbb760c5dcff121b33d9c",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D34cc03f8f1.md": {
+      "raw_hash": "633fc69b9d369dfebb9750488151af9a48eae246cf098b790c35182ca3afde5d",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D34e2d54853.md": {
+      "raw_hash": "81a1ca5c8d112bb60912f814fbf2161ed3d07a6ce5d6d6d7f12e9da6b2e96b91",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D35e08369e9.md": {
+      "raw_hash": "45b2c81fdd1a9ea8a500e2093c7132a47221ce0bb7dc2200662029bc42751ec6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3626ca2d3e.md": {
+      "raw_hash": "8c717c313a3e52d14fbf6ec1ac75162271b94b38e059460b952a340a4c24fa0c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D362ac0b711.md": {
+      "raw_hash": "5d9802aab2d7115656bcfeceed6a4c2caa4f3b45f68cd3a3f7854c988de8d3ee",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D368f91afcb.md": {
+      "raw_hash": "e9bd53041a252f94f2ddaef766090f48579479da22daef32a7d260f3c45ca1e9",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D36f2b46f0b.md": {
+      "raw_hash": "ba2fb9a412abb590ca41e67b8f410bb877e3b364527f39ad2763590baaec50df",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D36fbf9932e.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D3744b395c7.md": {
+      "raw_hash": "69f57e1589124daf0f37282614a763f3248bb287d0506a3f42ba9ac846f94fdf",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D37bbcc2a84.md": {
+      "raw_hash": "d2d5a7b5fab99729cf929349ee533a60f5ac5e749d29b57d1823515d509e8ecf",
+      "supplied_language": "es",
+      "detected_language": null,
+      "effective_language": "es",
+      "method": "csv_retained_nonprose"
+    },
+    "D3889964229.md": {
+      "raw_hash": "7db77e350fd42b618be2469e79fbe32533d2890f912976738f473c9146fe69a9",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D39460ae120.md": {
+      "raw_hash": "d089190fd75a169136b383bf4198526ff2ed7ef86967f2931a8faa07ed455017",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D39b5a07cce.md": {
+      "raw_hash": "6cfc2ce291c58900b1919f6bc6c726f923ecc3653c28e6ac1e849df48241bc45",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D39f30a2a32.md": {
+      "raw_hash": "63a449f539ded1fd0eac3ee46a1d27b8abc69af472fe8023401074d6579d6a07",
+      "supplied_language": "es",
+      "detected_language": null,
+      "effective_language": "es",
+      "method": "csv_retained_nonprose"
+    },
+    "D3a2e8cc2bf.md": {
+      "raw_hash": "4666e2c869015ad180b7a17918f44249d0fdf1657fa61c3515f7b3c89fcd41c0",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3a344296cf.md": {
+      "raw_hash": "51638bede732242b01259ea0e419582148b2fe6924fce58758555cd4254d436f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3a73e655b7.md": {
+      "raw_hash": "ce126b627630208d323ec1cf2835b49dc7972fa90d1119eb0b6859fd6c1f8c2c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3a9dd210b9.md": {
+      "raw_hash": "0ef103ce32dbd5d2865b023723b9e648e33cb1035240d6f4014623a257ed404d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3b2e475c37.md": {
+      "raw_hash": "5c76d8490873b97bfa292e1c138161a2f7443557bfd52f5609d3e324fadc332a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3c8d0341c6.md": {
+      "raw_hash": "e347825e18a71b1abd2ae4a9a0f449151e874dc20adcf3d601726e7376848466",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3ceda3d736.md": {
+      "raw_hash": "c518f98d36dac1c5cbed8dbccd359336b7ed9bf49520258ed646c26dbf5b0394",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3d2151162e.md": {
+      "raw_hash": "aa53d5f90b79f4e3cfd621f9c0851889cf5c7e1d02351f6ea77f926ba10eca0c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3de36827c6.md": {
+      "raw_hash": "38b072dccaf0c2247cec07430e796774691359b91a2c0d5e56e853c52975d9f0",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D3eb698da05.md": {
+      "raw_hash": "e830f870621c8bff3f4cb623afcd7f71309c12b0282b41a4d0eb2c2c69309067",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3ee82c6349.md": {
+      "raw_hash": "e0b22a337f04e3235702e8ae8d2c02dfe339f724a01228f1e8f090c31f818ecc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3f13adccf5.md": {
+      "raw_hash": "889c75e60bdedf7313a56937c70bf03538a762930800ba828a67e8678a26a489",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    "D3f666b74fc.md": {
+      "raw_hash": "3584dd74a4e0d3ae1ffa8ddc769daff14c1f7c6e873c2755ce1ab969397b0189",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3f77693628.md": {
+      "raw_hash": "bf1bbb403e2dcd692e9e060cfb860d4d438fe62b9c779e73a0688bd54eba6f47",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D3f9de2b07a.md": {
+      "raw_hash": "cba0f7edc2ce7658615e95ed6b0f2638634d4d48a48e91bf98c7bf8f24b92c82",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3fcfb82721.md": {
+      "raw_hash": "5e342e42a6f01e9b0e3e5596660d0d61ee3c194d49aa438d1402ec021eb5c5f3",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D3fff8fb771.md": {
+      "raw_hash": "a1fcf52345ee1ff2425263d3013485d38cab1e3b1d5f389f7e99a1b11b6f2e9e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D40369c9b91.md": {
+      "raw_hash": "073b93698afdb3bdc57271654bd859485ae0ff24000142ccf338f04c8426d5a3",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    "D4088a17716.md": {
+      "raw_hash": "153d768c9be12ce038449a19c54dbf2484a64d7198062e1d2a9b2d09b1f151ca",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4153c30b30.md": {
+      "raw_hash": "da868a6d770015a9b6ade1cbb4116b58728fcb919fbf8dc13e683e6797210778",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4177935ee4.md": {
+      "raw_hash": "b7ab9670b9ead3ed49f35bf1eacff6ca423ee515cac51160537e2576b718a581",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D424e5824d5.md": {
+      "raw_hash": "67e3d94ca09ea907e561ab90db41d6c56ea4ed8b6e13a89d0dfe73b419d08d44",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D42c9d32f36.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D44b991fcbd.md": {
+      "raw_hash": "1beefa03345464a08946b58f877eeae50cd2276bb02c8340bb9b879a858b4e66",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4543bc4b16.md": {
+      "raw_hash": "b6e933008043e684186a376d9b3397a66a3b99fb3adb6a8f193608e980e0d682",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D45505b9cbe.md": {
+      "raw_hash": "a4653540f4b78dc8bc9a27cfd707e323b404ae5de2aaa38a355d1fa89b631d3c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D460c83057b.md": {
+      "raw_hash": "17334452c64dc6c358683821752c4c9cd8e2a4ff6f7cd7dc7f88e62bdd057f02",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D46512b4307.md": {
+      "raw_hash": "0b26df33f401a44f2d6bf166922680b6827850d7f3afffcedfdf7bedec6bea9e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D46868ca351.md": {
+      "raw_hash": "7965f789351c1a6f20e08b22ff61ca04635297c01d2ae62ee0dee090c0c6e6e6",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D468eb40896.md": {
+      "raw_hash": "5e1de09c17156d4685f8baba933162dcad324b0c83aad35809313c0eadfdc759",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D473461b69b.md": {
+      "raw_hash": "abedd8221f3f4f95d94065085b13200ba1d4966a50ec2f814543ba1e472bc4ce",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4813f9a5f0.md": {
+      "raw_hash": "d13a98e08dd6be9e8e58c572d92ebb6e7785a1beeed40d9d217c421a0deacf05",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D48246cb637.md": {
+      "raw_hash": "da9576a70b20feee394febd246369e9a116ea7f67f9386938d11359b496a4a35",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D485cf07c2f.md": {
+      "raw_hash": "134fad7cbc6e87a12a7dc0cc534834e9a636b876e94dcb035c42874145dba69e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4891913c58.md": {
+      "raw_hash": "74129d4f97d12904d6c778e02b732f66b0536183d5009a1226ed8e6d1349362f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D499aae5ee1.md": {
+      "raw_hash": "e47a6c2ba4140ef2c9292af2131135abaa2daa32ebeb8579a2edeaede53a8937",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D49a9834c4f.md": {
+      "raw_hash": "2a5be07a3baa97be733d52243e06e4136e40953f5891434ff706722aa9027349",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D4a1cfc9e84.md": {
+      "raw_hash": "fc4c41f12fe9f270d6c6e1c3093f7f19f2bb6b3c873bd11ce69762061b58110b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4afd3f8cff.md": {
+      "raw_hash": "b685876f7693b5ccf41cc5467e882c2945046913e1d06bb9ef5254243a4a6313",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4b1bbec358.md": {
+      "raw_hash": "97d985ceb5738d75de890e264e25744b1d6d51626bac59b055ec9419c87f0d06",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4c15f32ded.md": {
+      "raw_hash": "1a8c7013f35fe3e79e6e027151a89f9551091f4a8c6dcf7a95211eec515e26a7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4c61bd8a4d.md": {
+      "raw_hash": "555d7fe4b404ce3c55672f08c669790d0ba6080e7ac71561b2a2257a6a46cea1",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D4c9ba9b73a.md": {
+      "raw_hash": "4c6ba1b7677e22f4c7816695d8618d361697fdffa96eeca15815dbbe664314c9",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4d679068a9.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D4d7b8627dd.md": {
+      "raw_hash": "73e046929585a95836b0b7af2608070251d003407ddd37339e571fc8cdb32d33",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4dc223f819.md": {
+      "raw_hash": "a1ec51223cda688b656053419042af577a1039a36bd812ae8ca7959c16f84379",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4e14ca42fa.md": {
+      "raw_hash": "d5442904c741b9be45c277bde4ff576e211f0fc596212d20cb5559594743d1c0",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4ebb3e2295.md": {
+      "raw_hash": "0d9f3576322cbc52d10a5b0f9adb6bb8bec63c2530be25953a90af4064dad114",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4f51b3b8aa.md": {
+      "raw_hash": "c59ee07e75bc096aaac46e5f24de163bcf382bd1898469da269ea7c687af132f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4fa5104604.md": {
+      "raw_hash": "af83e6b3351c2689dbf2a8f7307fec6c0055385b9f36cbdddfb43b1ec0c5229e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D4fdbd7e71f.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D504187ddc0.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D5057743ad2.md": {
+      "raw_hash": "324dc8d291549a18890e30081dc4e4595b876c03ba95cb6abe34948b0cd8634b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D506fa6468a.md": {
+      "raw_hash": "f4a301dc1139890dc0689660edb0674a22485f208433034203ef3b1eec5b2780",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D5075be3d1d.md": {
+      "raw_hash": "206d80d24cc3c024f6300a13dbb27ab1acd46a1fb8296a5ea8dc38793807560e",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5222f02a50.md": {
+      "raw_hash": "98f31b6102f7aa23077234e96a5e388a0c75d1bd78571c3b6d01cae3ab1a74b7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D524ed548b0.md": {
+      "raw_hash": "b804b4a9ee122620aaac601107c99451602bf2352edd7527594250677af8a18a",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D527c64a588.md": {
+      "raw_hash": "4129e9b99525db52887f5a0599e6a8456e1a8043a0e5357f86ccf6321568a6e7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5290e827ec.md": {
+      "raw_hash": "552c767a4dbc28bcb6ade45e076434f40739b487301c431529498b793a74ec87",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5375e4eb66.md": {
+      "raw_hash": "ddd04ab2fa831fa306f353af88d512f5ad426d4a5ae543e506dc8d1594589e00",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D53e58415e7.md": {
+      "raw_hash": "2a52e494b21d2ba0ed9a3d05b3511bbb18a5c3773c8b7f74e4edd52712774ae0",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D55eeab715f.md": {
+      "raw_hash": "796df6d5c86f64a4831e66f0d8b47c6862b5e6c505c900dc98ac964c2d25667f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5710a4f4c5.md": {
+      "raw_hash": "9d6602139419932470a8d826f94024532c8ae3ae2836d346ecc684056a09075c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D576ed006d1.md": {
+      "raw_hash": "52b52370966739548106a2f9bbee8d24a92dc87b56cf094bf1a8f74272c4c27e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5774643607.md": {
+      "raw_hash": "afc09aea4579080aa590b85ad8054a919cdd6c5b750c1c94aac027db49adcf44",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D580a93c4d4.md": {
+      "raw_hash": "bc62880ed12d4d43619fd32c6771bae04d5e96f4877ec8e06d8ef68365967f70",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D5814f937ab.md": {
+      "raw_hash": "41e704848bac85ca730f338f5f9b4ead8efaf70a9ca6785d1d9f06908f1057e7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D593e0ac882.md": {
+      "raw_hash": "ac1d8b57f9889b4b6fffcd5df95d18369de3d09e82d03ff0d90ad088b0787f8c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D597b901fc0.md": {
+      "raw_hash": "fd02721ca068e7fcb13de27a530af413bd7a6dd36cd90b65754e9b306a332174",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5a8d5824d6.md": {
+      "raw_hash": "3deb6f61321bc8b0854db4d52708a9c7d9986ca83f73d9ee453ae12fc1a8d236",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5ba45ea0c7.md": {
+      "raw_hash": "556275ae613c5a4e86250b69f915b29c235827ec646ea06e5b0b6e43c0a17af4",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5ce211b5b0.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "D5d1bb4aad4.md": {
+      "raw_hash": "e3a6d662ce6baa42ea4ce941d30325bd31de7b1d8d96152b22e4df78d61b5887",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5da0aed2fd.md": {
+      "raw_hash": "f670670ebd2a696af2db3b32ef21e4460d0efcd2c8972516fb32fa4ed96482e1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5da294f26a.md": {
+      "raw_hash": "f7cdd38bf558fcc96c62564c39972ef447722420eb3e58bee2ccd54d33214b18",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5e8da6e171.md": {
+      "raw_hash": "2c3d8748cf5a76144290b303567407b4475c4d50045d4a5b28e6e36258fc128f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D5e9f29a4e4.md": {
+      "raw_hash": "aaa2259f7a47c784a36770a0173a031b13aa83121b0e206b1b84a7f9df3c8207",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D6172878e75.md": {
+      "raw_hash": "164f6a7126f66b7700bfd6c5c52dd2d7f81bd233f91e5360b63975c7dde4f228",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D62457e1efb.md": {
+      "raw_hash": "d7a44a16a259baa0f5a6c1189144d16bb3c05f4254e0cd767751a5b6f678ec50",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D62e0b7f65e.md": {
+      "raw_hash": "6494cf5c63852cf4a186d3b595344b8e8c95be3ff2f6a500ca8a58e573ba0eb1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D630c775a00.md": {
+      "raw_hash": "5a613de7f414cef7a8ebc015c3d65e6222fcf254982f32df6a26773b645ad4cc",
+      "supplied_language": "es",
+      "detected_language": null,
+      "effective_language": "es",
+      "method": "csv_retained_nonprose"
+    },
+    "D66065dc615.md": {
+      "raw_hash": "a7ed5709b6417524cf112fd17184bb8515c4c3f0c546d67b2b3335181edb6fc3",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D66fe4cd145.md": {
+      "raw_hash": "76cef4adc91c31af36ff2b174ce51ec5c016889301538e778012960a1d2d6a29",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6707fbdcac.md": {
+      "raw_hash": "2819950241752523035e9d301ecd953c6e0b9f74cf70ae26358c678f268ecd14",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D673ba9db5c.md": {
+      "raw_hash": "c8df29aa8fe88647d45fd9b7aa5a2dc9a33d2f884a18b9534cb6fb7748600844",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D674b851bcf.md": {
+      "raw_hash": "bf70cba8260e73906f3fe303f7fd5a7add8ab744991a0e51fc9637d0de70fbf2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D67a22ff8dc.md": {
+      "raw_hash": "1568cdb68b5e4f6b0839e0781cb5fcbad9438784ce81c1750d4048f6d069f592",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D67e9876b52.md": {
+      "raw_hash": "b926e8c024c0d719150eeee63dacde4500ca88437d6f62a2b5c478d3d5c84cd0",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D68ec883ee2.md": {
+      "raw_hash": "30e47a31fb1beef1222f80068d41ffe135cbf220a1baedfb5eef627bd5aae570",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6932910da8.md": {
+      "raw_hash": "78c1f196d6474ed31b55292a90ba972573b7d7d90a06d09759ddaa2add936881",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6955e41d32.md": {
+      "raw_hash": "a3d8738c0de7697cb8a804707846a58a31ab62935713762429a457ea97f68d7a",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D69ad43fc13.md": {
+      "raw_hash": "67971924e5eda13830ca99901d46d17b2783444672c8e1accae8b6ecdc5e40e4",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6a06b09fd0.md": {
+      "raw_hash": "49df35a42feeaddc28b02c9719aa0e42b24e588734dc924b4eb4f884a8581492",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6a210ea934.md": {
+      "raw_hash": "54eb1a8c7b2d1b1215ee30e30afaed2ebf6dc7910b1973339f7376c0d7b68c01",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6a4632d088.md": {
+      "raw_hash": "6d0300bda4d468b8d59fefba46ee43b78bcc6125a595dc5a177aaf9a3ef01b83",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6b18f4994b.md": {
+      "raw_hash": "7874519a6dd2c685455cb1043b3406514d961ddaed98053981e53d50eaf3b4e8",
+      "supplied_language": "es",
+      "detected_language": null,
+      "effective_language": "es",
+      "method": "csv_retained_nonprose"
+    },
+    "D6b8bfd81c8.md": {
+      "raw_hash": "8e27963e4141845874c01b2c8ec7ca84d2550291c2c624d51e47b5aa6e677148",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6b93916a5a.md": {
+      "raw_hash": "b0ef4b9ab60dc09d7f6bb8f95e745fb004e5d2cd7480009f500139cf24ce6b20",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6bd328fa1a.md": {
+      "raw_hash": "2607afbae3987a17ee0e939be6d22971fada88eaf71972c387b2cfed477d86e3",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6cbab2c6cb.md": {
+      "raw_hash": "10c7dc5f26c426c4220c4385f3a572051a549eecc26c6eea1d50dc4b554cb720",
+      "supplied_language": "es",
+      "detected_language": null,
+      "effective_language": "es",
+      "method": "csv_retained_nonprose"
+    },
+    "D6cd7fe655d.md": {
+      "raw_hash": "331f1b894daa082fed7db235e6c57ea30bf6106c42fa657841ff1d7a50191023",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6d7fafbadc.md": {
+      "raw_hash": "2e4c43c2d3c8422e8ac4860910e467019f47b91832eee2c66bcaeed6b1f17cbb",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6d95a6dd88.md": {
+      "raw_hash": "91c82ba10cdd6ed67573d68c392e7c7af9a84533b1f108b760b13b0b584f4332",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6de324faad.md": {
+      "raw_hash": "0104eb7f9daaad0bec2959c06eb020f2e93553e0573faec25d835316b77d6aa8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6e4de69f32.md": {
+      "raw_hash": "cb36de1f17feb5e4e385ff5a92f9496fe3bf32ed868d8549ce0eef0b66a3cec0",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D6e4fcedcad.md": {
+      "raw_hash": "c3a68552ef9db569ce41307641ba23e60fd87a10930503b58e766ae7ee3e85a4",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6e9e7bc8f0.md": {
+      "raw_hash": "2cc799324e57f9c2d2c8fa8faa4ed36e32b0eabf695b7401de08a453dce78906",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D6f0a5ea412.md": {
+      "raw_hash": "68fa7620866b68e152fbc7f134734bd2c4453bbe61ad0e16c271ebdf999b670d",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D702c8332ce.md": {
+      "raw_hash": "b765e264ef79edbdff7d6dd2a9a37248612e7edc0c6c55efad66f5ddeaa25446",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D70431f133a.md": {
+      "raw_hash": "2ab95e27d03aed67b355cc040bf63ed24f6dba7d8327d4a9b2141ea69149a900",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D705b6e90b7.md": {
+      "raw_hash": "40a30ebb3f8c0701480cd87507f3e6c187d3a9539e8469f83cb9b119044c000f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D705d4b38bf.md": {
+      "raw_hash": "0ea32ca2ba8a8623a7973cd9221d5bf55dd29919ac267f2ef1b57471859bd5ec",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D70c5546837.md": {
+      "raw_hash": "fa660a2be0cbd63ac8b2101a729658dda8a693f903567bb634320aecec182c87",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7173b6675d.md": {
+      "raw_hash": "c43132719741123ac1b8cacc7ebf4f3c6bce5bae54e3d05e1cf4b92489314ada",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D718afe08b3.md": {
+      "raw_hash": "986aaeaecb1a3611a0c335cab8fbe7035ce53a7bde77466f83a5b60f0bd4fc54",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D71c39bf00c.md": {
+      "raw_hash": "081b8aa3765a82d7591c8f71a655830da5760f2106a1ac7741237bebd4b0c2f5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D72abb48856.md": {
+      "raw_hash": "42c4752a147f183363b9bf10304a22099a4c1f06c89bbd79aa6ae97690701352",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D73872d2990.md": {
+      "raw_hash": "1a813860d01617936a4b1ab83c4975e98240ba25adf867e3a46d9495a3ad700d",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D73d7444763.md": {
+      "raw_hash": "a61723d36caab8c93fc296015bfd7436dc76aa1fd902690f0ed2b7754b5706cc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D744cf5e8a7.md": {
+      "raw_hash": "149c3bb3139936e52af0acae78e5fb996405f5385417a63b4a1f7a82b80fb31d",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D7484199158.md": {
+      "raw_hash": "01aceb8bbe92f0af17331b5f4e29ae4781ce8b94185b52f53932eac7001f4b0e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D748b71c6e5.md": {
+      "raw_hash": "f301fe5a2f393082f251b361dba8ed2a9cc35a162c3f43e40847bb41be638945",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D74c6cb64f3.md": {
+      "raw_hash": "501d01c11294ae79eba36ac966358f639209b0c3349fb2c313510e89d011fe8b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D756e06cd6d.md": {
+      "raw_hash": "6b36d5e3c92fcb0d3c8c7905ac072a8af68a5e8b78d97b4450b49159b3e7077b",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D78054c697a.md": {
+      "raw_hash": "4f1891f2d47a7ff66bc27d047d2e7158f14e855c2ed5465d899c6c197c8cbb89",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D790bc55dcd.md": {
+      "raw_hash": "1f391103620ab6925bfb7822f844f7fa6514bab62d5524e0e11692ac8dcf26fe",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D795c870cf1.md": {
+      "raw_hash": "c2a6d59b1aef5fa51cae33db073bf5cf5d838281f0ed0315bd240db4c2ee50d8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7a305a70d1.md": {
+      "raw_hash": "18b18835b1377964c22a4cfee03ada1f8272a98c22b3f6354508d9dc26d008f1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7a52c1f25b.md": {
+      "raw_hash": "69a402a67da4f685e4ec7114ad5e51d5e2feafc3ede2cabacb37b8a396b044c6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7a5af7866b.md": {
+      "raw_hash": "324ad5eb180c8a569850c2d59bb92e36374c57b4518e22095c57f88fc4c6affb",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7acf22526b.md": {
+      "raw_hash": "38c5e1bb698dc95923f0e885a1b390fbf52ffb2d430f6906a7aeae544c50a0d1",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7b1162c6ec.md": {
+      "raw_hash": "2f6428683cf5fc03104cc0d6ef47282ec4f5a9a9c74b43904fabe887f8e8b291",
+      "supplied_language": "es",
+      "detected_language": null,
+      "effective_language": "es",
+      "method": "csv_retained_nonprose"
+    },
+    "D7b1badbde2.md": {
+      "raw_hash": "fe26d0cf323d3a2a18c987ca32f7a32fdcd74ff43b973daab3119bbbf7eaccc7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7c514aa2f9.md": {
+      "raw_hash": "774a8cc60664088f38b97f030af6adab76aff91f17bc70f23bf1aa24be418224",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7cadfec00d.md": {
+      "raw_hash": "f089d2b4bc37f46ba3bf33cee57f754af6b43f557adc5b13c0180ff98c7fb885",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D7ce58ac770.md": {
+      "raw_hash": "77c504c9543a15a73a38727079b196cf04a9941b16840dc9ef59ee81e4b7a770",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7d0d4bad4c.md": {
+      "raw_hash": "d254e44886861333a3429717cefd589d3db740737713c8aa600000b56899b4ed",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D7d3811047b.md": {
+      "raw_hash": "7d4997365dc67e363c760135d8065bbb152c5a69dc845fbe5d4b166e72b6867d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7dbb77c873.md": {
+      "raw_hash": "b5a6ee0c099e78585b8b653b1a394a7c03b0bbd4192d490655018535ee009774",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7dbccfcf92.md": {
+      "raw_hash": "8c9f28c68742b288f7711bcb6a8867422741f87b55023a55758e85e4632c196c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7e9378eeb8.md": {
+      "raw_hash": "16374201fc958d62ac1400ce6934a78a56fbb148e2bb6aa1289c80ddb06e811b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7f227c43c5.md": {
+      "raw_hash": "d9f60537f83cca0a78d1dbc551780908682a1d48f73210da5c979a9417f98c82",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D7fa676b119.md": {
+      "raw_hash": "ae7a4aba6a467891a93633b6aef1f9902d707e1457e71ef3f54a1b76ea624ef6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8025c7c417.md": {
+      "raw_hash": "bf27382f977822c9b86fbe67173e572afea4b2e61568c8ed09c15c168bd9350a",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D802e76ecc1.md": {
+      "raw_hash": "cf6683452d21160c1239d55744589f3a807fbb4eaa0ebda335c0f954ef1748b9",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8048b8fc82.md": {
+      "raw_hash": "040208e52cddc4ce0a9a848f51e84fd5a3a04da64619517869af9647f2a77a68",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D806bc9089a.md": {
+      "raw_hash": "6d8e3115e7668690f770e4190f559c37ca4d6dbda19a5e1b16caa283b4a92b56",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D80a45e7ec8.md": {
+      "raw_hash": "c373b4cabb4fb45c1029256eb524f445f6758a1fd8e0b1d228c1646b5c3f1dd6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D80d8682e92.md": {
+      "raw_hash": "04300e5622fbcf2593e7841d6847d778e76cf555bb551913bec6fe149088845e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D810d7eb050.md": {
+      "raw_hash": "7d0ce202a7e1f180a2494ce2be80f7435585e742af52bdeb8afee3677f5500e6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D81a6f1eeee.md": {
+      "raw_hash": "84dbbac7bc56ac09107a0e336e774542f4d3e80cc6ec2aa12ccdc3ded1d7f8c1",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8316c95aec.md": {
+      "raw_hash": "44cf7aada495cc79ae57edc50473a9616d501ca3b6cc96c1a952d973d1526918",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D832a695395.md": {
+      "raw_hash": "dbbae52e39310fd0fe8daba55771f3d6dbce0f97beea1f1f7372dbd2f7c6e3f9",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D835e00ac1a.md": {
+      "raw_hash": "b8aadd0720b4779ac5b7dd6be4ae8b35adf77b7ede4365bedd4abce0d4880d63",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D84c3dce66e.md": {
+      "raw_hash": "9f6858891309bad92468a64e0e920b3616f9275eceb16dd1a4beaee44dd5f2f1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D855a2aa8c6.md": {
+      "raw_hash": "9646431229d8cd3e47863e2d6e4e38df4aa426c4ba91000f0a8216e168b9a570",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D85d7eb197c.md": {
+      "raw_hash": "72d709f9a1b8d8e94a20948e163eae209388b4ad031b990fadeb4a6d7ab4dcf7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D85da48d306.md": {
+      "raw_hash": "cc0151745c8db55293a23507904e498a8714fd48a9be4adea7c2869207751a3f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D86163d450a.md": {
+      "raw_hash": "6c5615d8ac209ee87f19b37070e8d7cc448a242e12fbe583144c9192d56141b6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D866cbc1592.md": {
+      "raw_hash": "4ec952da1977d36e661dca527cd64fbc93fcb596c3618412a6ce2bafd8d07989",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8688fb1d8c.md": {
+      "raw_hash": "00c23aec5d45a33921948dd185d5766c0c7a69e8d3a7bd6e510e0eaabb504f9d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D86ccec4869.md": {
+      "raw_hash": "91821ef3dac077a21fd1d35bd681a6cb743e1134f9fe6bc37eefe2a45b1f6bde",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D87af7060b1.md": {
+      "raw_hash": "330d1168e0863549194adbd539cfc8d3018b31cee91fba4958d979dfee0acf2e",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D88155b92de.md": {
+      "raw_hash": "985dc9b5c7b992117b1358a6094849a53226a3744cd3c5c6a67002f787cc046a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D88e42ff882.md": {
+      "raw_hash": "e77d804f057922b6b7d427c62ba31b4dd875595e8ac72f3877a396caeff82620",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D8954bd10a8.md": {
+      "raw_hash": "5aa520b97bbd7e5389204e1988c4e858201bcab93a59951960013e94e3aeffc4",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D89ca40c1b2.md": {
+      "raw_hash": "34d734b53e2f781dbb35c8922b6fae331418232d6ad15729dfe6de7e8d0ba0ac",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D89f8f8704e.md": {
+      "raw_hash": "7d59500808d3cb2eecb001372d33e81613280e8ddb557f0dee90d9e1dc9e434f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8a2f164116.md": {
+      "raw_hash": "24717ac529cad3493c4fe5653f3d78944377b6c91320ffdfa6d300d275d238e5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8aa6e6503b.md": {
+      "raw_hash": "7617f90d608a106f56ffdcfe890f415fa517082e572b39692eecb1b85237c205",
+      "supplied_language": "en",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    "D8ad70d7749.md": {
+      "raw_hash": "43d42121a51a4a0c530e575dfbce762d79acc512d74acf75f7d09baf216d3ffb",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8b233f27d2.md": {
+      "raw_hash": "ada4d357ece04424b7ebd492c4caad75604ef5feb627201b8d7fda1d802ed1ed",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8b3df52e9e.md": {
+      "raw_hash": "6bba7cda4a88b66dc7184bab01d6e86b79c5626de1b853a52fa0c945d3d3deec",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8bafbbfb7a.md": {
+      "raw_hash": "2592a0cb1c2b35a67716fde73cf593409b73018186eb4ce8c8902d231ed8bf8b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8bc477871b.md": {
+      "raw_hash": "06e986d881553d0a04ca61edb77e09ec5f21e596cc88c6f256c71d1a51c2b980",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8d099e6717.md": {
+      "raw_hash": "e24677762b007cb60bd34afdbe8ed9815d213841abb1b1df60aed3bd5e1272ca",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8d18203d3a.md": {
+      "raw_hash": "9eb0c37d7016383cb64fc54ce39e489dadffe4e54cfb951d71180f334f55b574",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D8ddd1fa37b.md": {
+      "raw_hash": "bc03aa2ea4d99dae0cb0eb6463e47d4ffe16d141e9e0050c25842503f481481f",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D8edc950029.md": {
+      "raw_hash": "4a2e9534daf6ae1e11d6a8e77a5c42154c5441aa9efba546ffe11a82dd8708f6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D905421131c.md": {
+      "raw_hash": "1525ba14d674d3ced96bca50f82966fc58e917d7711f9ce3259219a0087002cd",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D907b8f0256.md": {
+      "raw_hash": "b528cf4dfd1dbb65b92090aa9fa4724cb56e7c0e5ac7395e5b7eba4f7983ee3e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D90917c4e45.md": {
+      "raw_hash": "c40986afd9838e7c0e129d1d6d4de22829e9a007b483d22793373f03e2edba3b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D92891baef4.md": {
+      "raw_hash": "2a42ef77ab6cbfb846d2220be87b3d9728d3bac97eec8bf967ac3b36d49c6cb1",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D9338fbb910.md": {
+      "raw_hash": "bb38586a2e74bc38605753a1f44b765b8767a532f08a4c495cdd8e046146f2b5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D93b7301a72.md": {
+      "raw_hash": "80742a20def36dfde0fc69cb86fe5e7177f4d69c6bb5eef3f4fab3e44b264557",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9549aa0ea8.md": {
+      "raw_hash": "9fd08b61b4f6920a18add233464af0b32687999f6a7ff02dd9d90036323ff26f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D955bef0477.md": {
+      "raw_hash": "000979b847562fbdce89f1d551c91bd73e45dc54fe78e739328e1de4939f15b8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D957b22fac7.md": {
+      "raw_hash": "9bdf549b306ae7ccbb366f04ea95d8b2d8e020361947a503c4b4d1ce21e3936a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D95900a2edb.md": {
+      "raw_hash": "46a9283c0d93b718800bc40f8cbfa1a00f4cb20d0fedbe0f0819213ed05c7c43",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D96536b2560.md": {
+      "raw_hash": "fceccec2e19277dc43328392c9eacdb4a138a0d48025d741aa47439206141034",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9693bfc7d0.md": {
+      "raw_hash": "36bc7191928850730dd2cf3ef0e902ad8e764ecd67cd43a06d61b763715ec43d",
+      "supplied_language": "es",
+      "detected_language": null,
+      "effective_language": "es",
+      "method": "csv_retained_nonprose"
+    },
+    "D96e6a7ce42.md": {
+      "raw_hash": "202b73738349b1ea9785cdab64fd4f3d6f6a7e8945a6ff0a947a0be623872d8a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D98399d39a0.md": {
+      "raw_hash": "8176cf40ed76e9654530ad198e8623a54adb02a6f7a0f910a843963b349baf76",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D98949d5e0c.md": {
+      "raw_hash": "3a4da54f95cf52d654b48998f6d1293829df444fdbab8ac3647042254aa7136a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D98ca469833.md": {
+      "raw_hash": "cade56c0074c1212e04b424bd8a1c7db64b5360f1d61f382c08ae8632772ef77",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D98f9c10fad.md": {
+      "raw_hash": "fb2fafdb6b7cc433e97a2559c0f778496f72550242612b7310ab5614e232dab4",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9962a0b190.md": {
+      "raw_hash": "45295e62111293cdea113e1b3e993b21ae6f224038afd2d8bb55840089e3856b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9980aae794.md": {
+      "raw_hash": "dd92cc940e55b6ee701efc30b38e75df3b7e2560a07f2baf6e257f8d81b59996",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9996afe2d0.md": {
+      "raw_hash": "644af5b1fa0ef0a035c0f5d0d210391ffe5de335e0a43583527e9c6af6cd1deb",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D99ac00a2b3.md": {
+      "raw_hash": "44bbe1ba1fe850268f2f29f66cbc173551968ac6f463aa41e39f491397af44f7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D99b084ca58.md": {
+      "raw_hash": "e16245059f0a456a8f8a7efe7bf6c307edf6211eb50f43b2dbf26cb141b0c5b7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9ae55ed798.md": {
+      "raw_hash": "53615c5e06eaf35f8d7249a76ce23d3f6fa5e45e39e37443294d8b749aac4b7b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9b8d885614.md": {
+      "raw_hash": "fb2f3826f65c9eb3e5e4521a95e30b807c80c483c60eed34e5af64cb2befd811",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9bf7056e3d.md": {
+      "raw_hash": "c030474314a2e432388b5b3ed25cce46be1ea346de97f7c7516740749f9ae58b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9c3366a7c9.md": {
+      "raw_hash": "a84404e44bbaceccb923ba255aa54f3be11379712a24540a4821bc46a9078041",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9d4ec452ad.md": {
+      "raw_hash": "8fc9880e258d8380c4654038d24eea0451ad3698acff5c60e69687d2fae5b4bb",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D9d9716b620.md": {
+      "raw_hash": "cb87433cbe83219ef2006d9b0f2fcb624584ae42ff92bc3db4a17970e17bc600",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "D9dce5d3ce9.md": {
+      "raw_hash": "e399b3d29907cb6daa090e531778e2df2996c7d5fb31111f43341dfea0621bf3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9e021943b7.md": {
+      "raw_hash": "2b8d007b028a5eadffc01985b889c82bae88cab0e3925d18377321fd958b3789",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "D9e5162a399.md": {
+      "raw_hash": "6334e85d41ad4798abb1dd4ccedad1a60aa0c079d61674e00f603b199f3e7e85",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9e83de4d52.md": {
+      "raw_hash": "41348910c7736c32489bfb98e9ef81e58beff5f3c6207871f77885b774d3d7e0",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9e96d4b753.md": {
+      "raw_hash": "7ed4447942ca4ba8a2b033ab1637ccafeab8dcdabb96a9f0b64eda72cd4ade40",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9f045d83a6.md": {
+      "raw_hash": "a15deb364a075723aacd15b3ec3cb05e62664a59cfb5601349356cea970d67d6",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9fb30dbc22.md": {
+      "raw_hash": "47e13c700f59b17ecca37953c46f08f015f197a802167303a59d72c1c4752d66",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "D9feb5dac85.md": {
+      "raw_hash": "38ce9b91ded9b7dcc4c97fbf4a4137d84b89093dbd5feb6196ac2ae6d6b06ac6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da04fa8c20e.md": {
+      "raw_hash": "904c91f620d86a15af3576d473944c54a34adef8e6f7df712f11e5d56617c3d9",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da06d7557ae.md": {
+      "raw_hash": "51a79438f733a51108ee6b776c685f6155adcadb6c959c791271afbd76c0ac5f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da0c54e36d0.md": {
+      "raw_hash": "3eea63ebd5e056d09f5dbc28a5c2498e8155cdcfa05032c7b789a7de78814f22",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da1d312e3ab.md": {
+      "raw_hash": "bdec213471c1469d23d6d423bf880322e65eab86c51debb9f352ca3c9066d5c5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da2c7f27aa2.md": {
+      "raw_hash": "80dacebb0881241444c0b7b77748e76e08cf91cb07321d13e82d57ebd898a78c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da34922df6b.md": {
+      "raw_hash": "e4d5120d3c3a2f08a80a7869d071b4d3cd694352016536aac264f61e635b975c",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da384a9ee90.md": {
+      "raw_hash": "efc9adcfe8a3285f60e7f25c9ecd214697df08b60735925e67eb343336eb3fdd",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da3c2a32b51.md": {
+      "raw_hash": "4a5a94eedf3e8d72ea52d8d7ffca0816bf4ab2e3efd54d564d5ed46ce02b80a6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da4bda80d2e.md": {
+      "raw_hash": "de6ec554441718ea349e38514975d83747a3f2b71d84068e7cf3c5c2f3bb6086",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "Da5383a3d0a.md": {
+      "raw_hash": "61a3f8da640bbb28f068d3071e36f1de9404b06b4b650025cfbc8a9ab4b25904",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da5753abc3e.md": {
+      "raw_hash": "8780a0aec94993c5af9bede5307f4e1478461ce12677a6a775b51fa43394ede1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da5fd2a394e.md": {
+      "raw_hash": "0e3bb1d2b8a1f257b0262ad22c93552bde4d048f4e8a996b408a9576212817a3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da5fedd82cc.md": {
+      "raw_hash": "9d5c65e541ec7127fe3706cd5d8411056ef697588e0647adc12cdc3272d1a08b",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "Da62ea9bf7f.md": {
+      "raw_hash": "073c57a25d56fcc8689002f9e57f5cdfc9adc6f253cf3447f1584bc57a631e75",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da68d33c442.md": {
+      "raw_hash": "71c8678400ddc46e384738b0dfc5aa5527ddb0fcb1757dd38816521216dd2eb6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da6f2631b3b.md": {
+      "raw_hash": "37d4480adeeec5a94763bec56b6e2b0fba7e9abd260a448a8a8403ee46e5ed33",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "Da75bdbcd90.md": {
+      "raw_hash": "f29e68b21373d47f6fb210e8e9371168a9a873d1f58d3fb0c26cae5c08784090",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da7897cecbd.md": {
+      "raw_hash": "1c6461ac058966aa81ea9ce7e89aaa6ef0a88c24ef42eca2636e639ecef2389a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da7bd65da54.md": {
+      "raw_hash": "8e405aea7adf2e1ba09effaf5ff4ff34982e16e8bcc73a60293b3328f6850b5a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da8a79bb208.md": {
+      "raw_hash": "d4983d85267281325082e0998c92d564933ff3d5ccfb9fcb2c6c614ca8dcb4ca",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da8b17ac14e.md": {
+      "raw_hash": "b92d848cd1728fa33a8c068fddba8777d5b03b7bb853c0d3016bbfdf7eba4bb3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da8de6138bd.md": {
+      "raw_hash": "169a19eb242a81205a7a9055c6371b754e9bddac1397b772532fbb66c2d03fb8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da906dd6c63.md": {
+      "raw_hash": "26cd4fea8d7ddb9d9b3f07fa4b41759b8239cbd73229f46569dbe125e8775885",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da9b1256749.md": {
+      "raw_hash": "565e3d8641b4d211e1b40617346fcc814ef17a8b9b1881c349d780d8ee5b3ded",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Da9f6db469d.md": {
+      "raw_hash": "94a42cfcad7c99a1dc52471fd9a7c0fff28394c9c99f53dfa9beaf0a77e4440a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Daa73c27a78.md": {
+      "raw_hash": "ded1bc3fb385789a09fc8b1162fc6cf495046a085bddb8b32b87864ada2a6402",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dab5b7604b8.md": {
+      "raw_hash": "af84a4d50d991cfb52e10d053eb2c6624628818c74823f12419acae8ba955b44",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dab64a41cbe.md": {
+      "raw_hash": "3d16e14a5abfb53496a4e5fdc7856c9aa2041396a8cf59d89125a40a5bac72f8",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dab7c742420.md": {
+      "raw_hash": "e4a0ad7df1861a5850a364465b7d7acd51219634a7bb2636b0561b20bfe5d7fa",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dac15cd638c.md": {
+      "raw_hash": "d490a24b15bdf7f1c6ff5cbbd1ff57a8b40235d800804052ee31d13a516e084d",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dac76ae4784.md": {
+      "raw_hash": "5e8d0c2b883355dc4abebbc5b7549a5f97416decd74d17041d6ac3dd11f486ef",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dac9da96f9c.md": {
+      "raw_hash": "3e23460a00a1249adb870833c8f107572b8d61f049697c08dbf610c3708e921d",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "Dacd2f2d218.md": {
+      "raw_hash": "7c4f337cf0387e5a5828b860ac88ac1720fc7ab7bd070ff0145d84f4f75619d3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dacd418953a.md": {
+      "raw_hash": "91d7305bb86defac029bdd9afdd6633fe1d0cd5f8bbe4ff2a65f42cc61037e25",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dad3389f998.md": {
+      "raw_hash": "57c60ccb3bedcfad3894bb5d549b05f846b733ecd08efafee0e89803c1e054b3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dad7d7e880f.md": {
+      "raw_hash": "cf7adae6d24517843648be3773e019a277aeb0941b6b3ce46afdfd21729d8bc0",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dad97e8d44d.md": {
+      "raw_hash": "c47827ed2f1166cef0e37be4a7b54e57daac9d8d1afa7c7dac237f99fa5a9e2f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dadc2eedb91.md": {
+      "raw_hash": "7b76c65c61b7f3160ca76b2564c23fb6d8972fd57e345cfcf5af2c9fc6d1cc99",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Daee4d5fc1f.md": {
+      "raw_hash": "4441a57c2eebac6bbba3da372f776affdf050bf67bbf54e6d0c8d69c7a739fed",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Daf7d793126.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Daf96810c48.md": {
+      "raw_hash": "834ad4cf76f2f83cdd8280ed63985e86c610f93ab97f225370076dbb518ec91d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db006be0701.md": {
+      "raw_hash": "f2d786a6c70226cc6f4299adb4674a305e2130a17fe6f7864c5f0a84611d9b06",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db109fb893b.md": {
+      "raw_hash": "d2d3428e15658f515a06e9a6bea7607f603a59e123cec0ec426c95e26ff8e70d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db2de191d11.md": {
+      "raw_hash": "4d239354a716569d72ba28288497fd0bdcffd0cb7233e910dac91ffaac3142aa",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db2e973adc4.md": {
+      "raw_hash": "b18922adcdb839ae6d27410fb0c6093d8928aadf382d656d762864f8348ac13f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db305b45b94.md": {
+      "raw_hash": "d209c5f646ab9c8704792f8af4166be8b95ce8fc2de3f24fe2acc0e10e9bdc79",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db3559c4320.md": {
+      "raw_hash": "d0bc938a7be6a03ed24e0ea3adf673bb611b5696d15260478c7ad6cd20ab4dc3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db4124383fb.md": {
+      "raw_hash": "c532de3947192d53117baa12e4a648a634ae9851047c926488442813e8af8570",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db44a39eff2.md": {
+      "raw_hash": "97cc6804c0374d607eb5edb229c7c56e5f6ff2f558a47e00cadb31b8c8078c92",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db4e4334847.md": {
+      "raw_hash": "809d156b59a3de8f746fbbf73774406b36be2028704c03ae07b91a30fae59600",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db5a154666e.md": {
+      "raw_hash": "0d70c43573b55be5b45742b2b9847f3e7a40190726b963b33e1f405c8229f1bc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db5c5c06c40.md": {
+      "raw_hash": "8ebb7ffdf097e8bfa78b5645a56c1bb04cbfe6305236f02e4a1f667df38e91dc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db61a4af081.md": {
+      "raw_hash": "d152278f3e925c010850cd502f20cdf37afe6c066b4551b7aa20d2b2eb66e425",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db6773e8c18.md": {
+      "raw_hash": "ec65597bc456de545a5177282de6ae4bfe92bd1e9d6112de9b83753964af44cc",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db6aa59ed1a.md": {
+      "raw_hash": "419448459b21ae39f05b7e9e606bf80f6f3c3b1d53b2c4aeab907f002f7076cb",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db77c5f1b42.md": {
+      "raw_hash": "e6a287c82362b0c0785083536cf7046aece545ee2d924f0d3042c5a7b35c8001",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db7cd3d41af.md": {
+      "raw_hash": "2dc21536474ce28fa0f93895d50a863fc26672dc0cf1a46a445c83aeed41afa2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db7dd33fa30.md": {
+      "raw_hash": "8fcbd1197f94141097a12c0d4aa74d38fd508c6f7b740ee783493cfdc287d81e",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db873603792.md": {
+      "raw_hash": "6e2bd635688ec59aa435e5070d923abf5f08851054a4a20ac7fe9392f60f5f7d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db88e5c92e9.md": {
+      "raw_hash": "8caf6bc11daabcf2d8174c66ab5a90db50835f8eec4112651d6680e381d3cddc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db8b3bfccbd.md": {
+      "raw_hash": "076ff47c6c6c576db2c120d8276c6dcce628b0cc25020b57a391557bc4cd885b",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Db90c744289.md": {
+      "raw_hash": "ec35351276a6c41d3acb8f289bbbb06b1eb2ae8dbc544299ab670169cd30d57d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dba1a12df50.md": {
+      "raw_hash": "74086bff64a86265a9f82e3f92d4b03929c023538ff2295cb3c9430ca3c370fc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dba66038131.md": {
+      "raw_hash": "7839205506e06d7f85d1c1f76e99351048765abfff5174ea0ae6d69ca9478bf9",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbaeda1f274.md": {
+      "raw_hash": "d4e19c4994f1be2680d9421d395420a0f919a8936d8930c29b0b072d0e1435e6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbb1bc86e28.md": {
+      "raw_hash": "9c9e967f3e5d340c1990a3eb34706e54ab90eeb122b19f531a1bcdbfb6bafca5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbb3e40c69c.md": {
+      "raw_hash": "6b6623016f782edb8cd023ff53ddac553087ac62a53e4c13dfd78121eccbff28",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbb8e0e493d.md": {
+      "raw_hash": "19c7d2ee55edc57363730b4c0f913544b87cab56c6cce88c705821002cd633e7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbc65e15071.md": {
+      "raw_hash": "49bac996aaa30c859dfd64800fb76b5afb150fdec39320552d47f1fcc51f35ca",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbd53eb7cac.md": {
+      "raw_hash": "40394b9bf40a8478b8527f4bf89a11a151b0d126ba97ed2e73e0ed1b164b3483",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbd5581d7ea.md": {
+      "raw_hash": "6379a2d6a55b6a9596ea729b6ae3a78e599a9b6f3e00df9e091c2863e37723d0",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbd6e2ef149.md": {
+      "raw_hash": "1fb8a5b0265635fa1028a803eab5b213e1326103bf54855178800883b06b32eb",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbdfa725f12.md": {
+      "raw_hash": "6e7cedae46fec835d267a7168481f502f1dbfdb31bb5192c670ee6f5e8f4030d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dbfd3dda829.md": {
+      "raw_hash": "afe801b9d51118e96857e4f865d4eadddc066faa100cc9186a2bac38f54ceb37",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc0539d92df.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Dc09cbc73ed.md": {
+      "raw_hash": "081361baa1bf12afc99095e8b9e0976305555db5496536e847f315b5c7fe8885",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc163a8c770.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Dc1894a2331.md": {
+      "raw_hash": "13d6c124ee6edccf3f76cb23315a1d68637ae56640786359e21d251f5c1b24d6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc190efdb0c.md": {
+      "raw_hash": "b736700ace07fa8362bd563c79767465bb9c1faa788f35bd38be2c2161f9c5d6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc1ad0828ea.md": {
+      "raw_hash": "abab3849026e99bae1f45b5c6a48080e591948e0ffce9c94406f0747b0ecd086",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc1c94fd2b0.md": {
+      "raw_hash": "5f4e11573b312e4f6e0a23d80f7b438d57fa3765d21c6e6d6a3a63a3cf912320",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "Dc50ba74e90.md": {
+      "raw_hash": "b0851e1d589eeefa25afc34a01b40b496e4c7f14da7e06fc0e0e176ff978e37b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc5ae5123ae.md": {
+      "raw_hash": "f8d986905b1e35c6fd4556d2afd02d5cc05a4ee01e142e80034a9b5576cdccdc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc5f2be378d.md": {
+      "raw_hash": "3bbd9d897a43f44942339647a0904baf8ef14376b8e7798c7eb712ca49856484",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc64138c9ce.md": {
+      "raw_hash": "6a88cde01ee097724c354559c42f9197129fdbec0b012f62a9437e5926a1df92",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "Dc645c30427.md": {
+      "raw_hash": "e0edcdec35d1be6a83a463f4525683e2cebeb571f106c108b723ab9aefe8daaf",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc75803ba46.md": {
+      "raw_hash": "85b302cd35b63bd9e7c1248351fefad615a6a796c8a520c55ca04fc847d249f2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc799fdceaa.md": {
+      "raw_hash": "4e6ec34838bac920d2f732b3eea33e85c4f854079557f71077d557e575921b92",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc835fd8fa5.md": {
+      "raw_hash": "5e304bf669163420d4227e567f0af4da9ecf4ad13b64fed45d04d8205299ca67",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc8e8dd71c1.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Dc92c86e29b.md": {
+      "raw_hash": "ba8e0189b09b8107ca4291129b2a0476c7aa01e0c59d503392a494be0dadbd7c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dc95675e997.md": {
+      "raw_hash": "e1735c872cfe12f483997f1a875a83520f82da116939f1e1245be387b1ca2d3e",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "Dc9b5ae9bd8.md": {
+      "raw_hash": "28b45cbd2de575068c46c0cf5776fd67e5d778f8ffcf8e98c1c0f5aae93d004f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dcacacc3bb7.md": {
+      "raw_hash": "dd20c1f39fb261155dccd66b15f3751bb537d2daa45b7518bf7db42eb2f2e727",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dcb1577f6b1.md": {
+      "raw_hash": "6f2c7478f7c9994ca61d0e21dd384aaaab71bd85776b9b5d27975a66b0d413c2",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dcb61e1119f.md": {
+      "raw_hash": "76576428d93cbdd969c00d1df6ccd1775e2e895d87d34ab16aaf0f0c8b5e18c6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "Dce112b1459.md": {
+      "raw_hash": "f11316cc731c97c5f2bafcad7c496c0ab2e0949e5119be152bcb86d926d9f274",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dce65f43143.md": {
+      "raw_hash": "c5e45cddb1809636df1f3d26c65a5b1cd8edc66b00eee9c670bc97fe3008ee97",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dcf2e36fd60.md": {
+      "raw_hash": "e8a56633fcec8fd45747fb46d4e1e41a49ea2ad6299e6b391471f43b14fcb78f",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dcf618c0995.md": {
+      "raw_hash": "588a603164c3fdb24dac360c608f6ad0310bf2ea92b05efe53ac72b53b4c8909",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dcf6e6ba02b.md": {
+      "raw_hash": "0023071cc578af898479a574702e4b82ac557004975841a3bae976c9c94a6125",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd04607a1bd.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Dd049c70e48.md": {
+      "raw_hash": "2f144933cb4f703c069d56ba8799b02dcd64bf16bf1412ecbd91ec3a63b95778",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd0941288db.md": {
+      "raw_hash": "21c4ece5ca0b9115df976fa9b370e8a048f63643e2145b4744fc6e8033c67a6c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd12a09cdc4.md": {
+      "raw_hash": "e72fa8565e5c8656c6481d3a45a8497eca64b246b2f48ff04f0b5b3dd2d81f18",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd19d457d52.md": {
+      "raw_hash": "108a4a9beaec4dadf676ad19e219f78b4a5b204a1feda8275a7fcbfb072fe821",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    "Dd2d4a2481b.md": {
+      "raw_hash": "640a1f5da2a58958dd6ee3b52d109415ecdaaa594621dd4e22d3bbc19b675af4",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd3254da5f8.md": {
+      "raw_hash": "42ac7bc331f2bb8d38535cdae1bbac7ff47984124483a751767d0ae4cdacc2f8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd3e3626d4a.md": {
+      "raw_hash": "fa60102e6519f6aaa2c3807b53c253a2203d12e8e0595009905419489044bbd4",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd4ee6d16b7.md": {
+      "raw_hash": "dde7688d815a1f8524a2f5a7face6501645abda3a6837a49bf46149e2186154a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd5074a1835.md": {
+      "raw_hash": "bb5d0979955e6850d05f867755009cc35ef9ad804b3adb6a47b7f953573ecbe8",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd529d6b2d6.md": {
+      "raw_hash": "823fdb28e2aa8423dc3c8a5120341a4406cb3b2e91e95e226f242a66c405147f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd625eb4d57.md": {
+      "raw_hash": "19e2d0a221ee1766ef9c879a65d0475df033e4e53335eae82efaa4cb4b1677f4",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd628412f10.md": {
+      "raw_hash": "eebe49079e7fc8179c2d292d1c35f016fcaee879d1750a8869204022634aa6a5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd6a1769f2b.md": {
+      "raw_hash": "cbf5b13c4aa97a420a7797e32aab1cebf791a20d1fb4e137459287dd4262d624",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dd9a573c350.md": {
+      "raw_hash": "df874d8a545ff88722a5615f80cc66a7ae44dfde95e6520f0d69b6774c4c646a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dda00263b16.md": {
+      "raw_hash": "e531890a96faa3a55b0fcc09f8c636fe1e1137d6aa5c78279660f596176a2d03",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dda0b8c2901.md": {
+      "raw_hash": "c17535a05d7308f9e4ccd246cfa7d2b1d90a2f936f1324f892c05abd1fe32147",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dda1f1cf382.md": {
+      "raw_hash": "b3557b70af930469964a5586dcc94ff193477e88085826f25a08c83412c134ba",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Ddae572ff5a.md": {
+      "raw_hash": "1b2bb3d8da4c18165f10bea7a2dfe5c42315228ddf4d5eee5da8d51145dccb97",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Ddbc2d1795e.md": {
+      "raw_hash": "e01de3bc085d1fb5bee613affa40b9d9e46a1ead344b0a5f4b5be7c664fed652",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Ddc5f4e5436.md": {
+      "raw_hash": "af33b85daf89f87b7d28250676d50a7252218e02640abc6ca438c90ce75749b0",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Ddc83b267e0.md": {
+      "raw_hash": "33808824c62e8bdbd2156256d17ae75d172fc58c10be4129601d3b41d1b9a439",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Ddc851011e7.md": {
+      "raw_hash": "39582e50e1a5dcb7f128ea52cfe87277dc32dc1d1ba78f2d4db07a6bf2686820",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Ddd0aaff8ee.md": {
+      "raw_hash": "7e15b15a3027ce529b0306113b8c025eab41c551e15e52c872b628a1ae956517",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "Ddd45e9013a.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Ddd8f64b337.md": {
+      "raw_hash": "91372c8b28bbd24202139c8b62ca0ac1832f793a70e78ba12d211974fd28b529",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dddb62f9014.md": {
+      "raw_hash": "94fe00bc3def3aae367321950df140f8c69630a7c72d454638fae62634a4ff45",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dde242c302e.md": {
+      "raw_hash": "ecc11985a9d593858f2d7c7a19d7ab2beb961a5a8850014e09cefc69c8f4cd21",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Ddeb37405b7.md": {
+      "raw_hash": "65be7df116a31cf8d2e56c3a3a3b45835ec49851b72cb1d300433c22b31c7f92",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "Ddf4ea08a8c.md": {
+      "raw_hash": "49573a76f5dbd79a85836b3a8ed073a0ad23822cbba9fa32c8d0ecda637d3707",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Ddf8cc4588f.md": {
+      "raw_hash": "9749141217966de611d8e523dd34a0b0def70ff4d8a0a74c8372f7eeaf3a8120",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "De03cafecf1.md": {
+      "raw_hash": "3f2d6a66c282843aad0a19d8f364a9cf499e33dbd48594ed619aa73e9723cce5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De04128df46.md": {
+      "raw_hash": "930a06cc5ffa6d00b6aa323727d5c6edccb9c45f2639aa6387757fd11a0abcd0",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "De04deb00e2.md": {
+      "raw_hash": "fbec54da8c64b9595d34ac46c019d11a39cbbd16277e155ac6742c4b7e858d9c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De05c727a25.md": {
+      "raw_hash": "9a391bad0ae25d9cfb34caf946a7f6efaf13dccd33a822aba207c3bdc992a1a7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De0610b719b.md": {
+      "raw_hash": "742f7126b46c1474c2e2bbb56c3524ce428f6b96284a1c7b918636b0b4006255",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De081bb3a2d.md": {
+      "raw_hash": "9429568bb933b6b90f9e9d6484d9d2da7db122cad52bb523ba285187fff0ae70",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De0f71e5cf5.md": {
+      "raw_hash": "a0165e5e626e4b9f49156606ee74273cccb8373a387b83a759f1ea9604862c95",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De19574ea6d.md": {
+      "raw_hash": "541f17a1f552e0e5efd6276192a50c4c5a7469e5a0becde9084a814890b20485",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De1f99aa2cf.md": {
+      "raw_hash": "337eb8f3f6d3a80fe87792ef781daa5b83ec381167067491110a4ef379a3f6e7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De248530dbe.md": {
+      "raw_hash": "45376366e39437acb399fecd84a95a63fb98373479566e6510435ead12a98ed3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De28a3dac9b.md": {
+      "raw_hash": "281592bb783d2a82a6bce4ff1b6bd86ca204b7fbee19d59b8801e7442e265476",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De2f723ce04.md": {
+      "raw_hash": "d7abbd5820374776406448dbeeb769c403e17348cc57664ed8338aa2f798bdef",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De350cb4868.md": {
+      "raw_hash": "8ac8c757fa809ef097a9178a47b86d3786eb5e71e93efb7d8044bb992d4d3b45",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De35232409a.md": {
+      "raw_hash": "29bf264a50ef9beec39e697e3b304c38cee417aa2b31b747be8679fcaf78263c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De3f857b161.md": {
+      "raw_hash": "0b63205c07a62bcc1adeeb7ee9fd9d3014f313d4295014b174d161699a3774d5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De4c251983a.md": {
+      "raw_hash": "b93ee2ac06cb90cd46b75db63f19689ed67e05bb664d7190a651fe8e3620aadf",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De56cde2022.md": {
+      "raw_hash": "428d5db47233c0510b1b1787c30249faa2cd50ae0721d0c23f64aa072a43f0de",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De5b2f33ffa.md": {
+      "raw_hash": "018acc3238353104bbe3f1a5fd18afa37982f76c520568a4c12aa4e7d797ebcb",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    "De61d0eaa84.md": {
+      "raw_hash": "d52d11a102bb62d1b541e5017ac066ce0b590ee334d213959b158b66635e654a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De65d413d46.md": {
+      "raw_hash": "b2c5072209cd6068a2d11694cb47a088f2a860be9d75207843e418fa00a4b33e",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De6f3e9c71f.md": {
+      "raw_hash": "5397307190910b93ce7116599f47dc2bb9771b3149eca4a37b966c141c9e3c97",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "De76e327faa.md": {
+      "raw_hash": "e02633e1b0e1f203ac93d6ed89352efeb37f61f76a11ec6409c07f251bd44919",
+      "supplied_language": "es",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De789e08ccc.md": {
+      "raw_hash": "f4fa20d4e068f09f9bf1751ea275c11ec010c5353b4231183ce9961ef4ca1bca",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De7a091d6d2.md": {
+      "raw_hash": "32ba9c8094b3184288be9b1f00645c2674fdc20ee829c16403cead4c7f8127ad",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De7caf8ed52.md": {
+      "raw_hash": "4dce0965144dda4f0e68ac2c358340392decf14f27be772930693ca8bd6b315c",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "De81b52b6ad.md": {
+      "raw_hash": "0f36f1995eaea67a4a397687512878018bb90d0a1d25a68285cfc5fa2d972ec8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De86ef509f0.md": {
+      "raw_hash": "14d79afe7ee38a686e34b6fbea39b476793de47b1959dcbd241dbbb39cecd757",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De8e37cb6a1.md": {
+      "raw_hash": "ba4e3849a83eac4c2dcba64b727c352fc280fccb524411765ff7af0dfffa715b",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De9093b6b47.md": {
+      "raw_hash": "e235a99cf3ce0875c3cc2030aa3604ca20104a5ef276107aade3585bfb4d82b6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "De9db56dd15.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Dea6c3f0f10.md": {
+      "raw_hash": "e78567c3800ff29d9e4b0923ea358bfbe2e1e891ce163746d8c95df8a27da674",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Deb43f3d3b7.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Dec1d5ccb22.md": {
+      "raw_hash": "780824950266cce9edceb3c3d94ff219345547e87932f4d8a0c6bf8380392e08",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Decbdca2e26.md": {
+      "raw_hash": "359b65c19d93d330ce918945ae4a39a1052c30c1d1a08cba4ea8e4fecbc7a488",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "Ded9b8766ac.md": {
+      "raw_hash": "36f013b917a05144be838ca023229a74aacb0e79aadfafb1dd26faad4de68b77",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dedb81e1789.md": {
+      "raw_hash": "f8db33668ffa93a4d0cc5180aa6df544a1dfdd8b59679a3cdd83136e3cd65909",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dedcbf1a53c.md": {
+      "raw_hash": "6e4cb53e5a06933a082d76af8a55ca3a1a7f33f483fc0c500f05650b78c7ef85",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dee50ded210.md": {
+      "raw_hash": "d40db28909a5b36b312b122cc3d8bd91766abf3c5c43dcd83619b3757a2f1271",
+      "supplied_language": "fr",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Def236d742c.md": {
+      "raw_hash": "addd6d9ac1646cba28a5d337712f7e9c07aacaa1cbd4dd76ba44f46fa31c2550",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Def416d05a4.md": {
+      "raw_hash": "b845e6581a24c3afdb6db092bfaf6b1db49029802304a1d5ccc871c8fb99c733",
+      "supplied_language": "es",
+      "detected_language": null,
+      "effective_language": "es",
+      "method": "csv_retained_nonprose"
+    },
+    "Df03791b5e1.md": {
+      "raw_hash": "c112c435d296e115c2925bc64a8db76210832f8535401f3103271d0c561b43d2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df1999687eb.md": {
+      "raw_hash": "c4941214217ee65543bc526e526ea1d2c6c4d35d1d7ec58c12212aaaae5fb031",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "Df1b0fc1446.md": {
+      "raw_hash": "c1a1c99fb53c151de0f32722b30f25d4f45f7c509399c937b63239a3e3c2f885",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df1c261b285.md": {
+      "raw_hash": "df894c815e826771878c9f1d1e865f722ed7d70c62c5b3b8211c5bd311f5d0a2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df212579f8d.md": {
+      "raw_hash": "a620ebdae8a0a64e3b45fb4b9e639b69fe452f4250c79b5822f476a8622a4ef5",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df2e3f740e3.md": {
+      "raw_hash": "37dc37e61d67c53731df3cc0a716393997d921d58f16d1dc1f0df43ebff6b960",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df35d21f1d6.md": {
+      "raw_hash": "540bc36636d41f00e8d36012a9254cf50d6dab872212f83b2dbd59157b990933",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df3ba72b4f8.md": {
+      "raw_hash": "4f34731f965b8e3bafb5a03801dea02ab6ef5e7051aee979c08bee0b2f2c6b5a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df45b248d71.md": {
+      "raw_hash": "6750e8c12ebabcaedc754469db4c38f0fbe0c118415864c1feb01d3a6d847ba0",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df45c9a1267.md": {
+      "raw_hash": "bb6f26255d4d322ee8157eed2bbe85922af5e5a21abf843de6422e50f165ead6",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained"
+    },
+    "Df5738d956a.md": {
+      "raw_hash": "ac2949212b81c71cbb470029333da640a8dcac166eaf5d26668915871fd5779a",
+      "supplied_language": "ar",
+      "detected_language": "ar",
+      "effective_language": "ar",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df73a5c30bf.md": {
+      "raw_hash": "2c2cb866bfe564c6bf824314e18067064761ffa9330697c0a0838f831af34452",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df7c02523fe.md": {
+      "raw_hash": "0a81a7dc923bc41a68b82f0e7c9e205b940e6d133ec58af1cf34d33f033377be",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df7ea6d2f4b.md": {
+      "raw_hash": "15ea65a318405f42d2704322db29e89740b69e48ddeccce08ee3da884d3ebbb5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df85d288c91.md": {
+      "raw_hash": "94380b4af092c5d3bad80b517e5d1d5d522b3811853167c4a484888beef145e7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df89b5a7a1a.md": {
+      "raw_hash": "71d4395c3c1eac5fdc4b503535b5445b6f23cb0b410a2f30321a06f635ab9894",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Df8d55f1f0f.md": {
+      "raw_hash": "f511b69b76fd9f8a9ec5b6fe1db2376b9d200ecad83f54f5616a7e149bb28e4e",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "Df98e297b5f.md": {
+      "raw_hash": "0d9f42dd72ae62cff8a3dfc581858066ac906a5530a560d21ed196185dd7bdfd",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dfa31139cc4.md": {
+      "raw_hash": "bdda39205921c34d8545a488f58fc46c2f3a7ccd65aa15f1d51e9e5e385c7d56",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dfa9c0c7a37.md": {
+      "raw_hash": "e6c12eb3acd927b224822b7c66eadc4492def36f02c19cf8f8e7d8cdff299cf6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dfae984e3d1.md": {
+      "raw_hash": "aa56fc648324da8b9794c40dfe95d58a80bb3ff7d02096b9c9f33ebee8b25965",
+      "supplied_language": "en",
+      "detected_language": null,
+      "effective_language": "en",
+      "method": "csv_retained_nonprose"
+    },
+    "Dfb721c01fd.md": {
+      "raw_hash": "4327c1c1d137703677736ae07d897c06fc423ba94bac773b15d7a1465874d044",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    "Dfbc4ab37d9.md": {
+      "raw_hash": "d97f6e1bfaffc2caa92ac7b6f97e76ba3971b58138534422ad23bda24497bfca",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "Dfc2b1675a1.md": {
+      "raw_hash": "fef51519800d3ef77aee2d57de4f9044df81d47fd1ef1869cbd6d7276beb29e5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dfc8173d0de.md": {
+      "raw_hash": "83ae00618625756152c4efb664b368a1edbca9eb39819b8e75a3e47f3aed5710",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dfd0d9e3afb.md": {
+      "raw_hash": "ad8b1c6a1582c0e40c1f7fd152e1752defffa889cf479e81fc435f144fec11d9",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dfd4bb1d3b2.md": {
+      "raw_hash": "777a47dc9571fd1a0a66822addf73dd802ef5d69f051288b14efb594f3ace1c3",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dfea44193e4.md": {
+      "raw_hash": "51a1e90afaa0d35273c885f0c813e2ad95f028c36bb00b69acbb924d9a1005dc",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dfee2e6ea98.md": {
+      "raw_hash": "dfade00fd3be27a22a502ca26620dd3354ed85db7f1df3c3a2c1aeb7ee67342a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "Dff0977248b.md": {
+      "raw_hash": "2985c793499adbaf505101ecf9db95f4d4a5d72641679700b5030a9597c76438",
+      "supplied_language": "fr",
+      "detected_language": null,
+      "effective_language": "fr",
+      "method": "csv_retained_nonprose"
+    },
+    "P01.md": {
+      "raw_hash": "ccb135708911f188ed3de56c0f1621466b3a145312b616e0f6c7e70bfe5b2588",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P02.md": {
+      "raw_hash": "f86f673c5fa70e30589f171b09bc472d6a19a5380089f0465fe452c006f1b4f1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P03.md": {
+      "raw_hash": "9901cc6f78b7fb7d4c12f509d1f6f43aee559f1ecf43b2d5711b7621b7e49f85",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P04.md": {
+      "raw_hash": "9f232f7f9b98b962b18c553f8eb6799ed5c15a774bd7b89e05fc3dc9c47aa5a9",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P05.md": {
+      "raw_hash": "abd07763e708ed12e0d691a2360306d77394e87dccf6a6e0fb2676686940076f",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P06.md": {
+      "raw_hash": "2b22bacd319e2da727c630caaacebc2e5270f514204765cd1d8ff9cedafa31b1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P07.md": {
+      "raw_hash": "acd91c2feef8a2bb3df137d4f39975d70c01707493b782f9338c6be3dbab81ba",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P08.md": {
+      "raw_hash": "7a0b07f0584d1e1e9688d51001211bb2af1711f982a08e849f9c2754758472ca",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P09.md": {
+      "raw_hash": "ea907308bec496e03a1e341babfd5a9966ba634c2b8c9d215db7aefd65a726b5",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P10.md": {
+      "raw_hash": "0fc4412de577682299f1439b989abc4b082853fb0e90c6811e8579145efd7d0d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P11.md": {
+      "raw_hash": "256762769b85e675862b7a7fa2d33167f2162d5ee28efb6624e108ac5c5549a4",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P12.md": {
+      "raw_hash": "cd98b92b5aa3aea78cfbc31d19a6e4ceeab72cd34f9ef8d872d492f22f0e2571",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P13.md": {
+      "raw_hash": "34c6dbc2b78e2001a800ac0574a815a998afc8506aeb04d08a0f67d17de9409c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P14.md": {
+      "raw_hash": "50ea587796e88fd4b31563690beb7203fbd4a3adea50c4dd07f167e4d5fe30fb",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P15.md": {
+      "raw_hash": "e5857860db9c437b973a5d12f828ddb87b3f3ebd0e46b37d8cbe7e0dbdc5b0c2",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P16.md": {
+      "raw_hash": "f670670ebd2a696af2db3b32ef21e4460d0efcd2c8972516fb32fa4ed96482e1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P20.md": {
+      "raw_hash": "f6eb795089babce2cc75eb1181171f41490ba4952a2e586a1b45f9b902652030",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P21.md": {
+      "raw_hash": "5e9b46520c48e916971da90490467001e8b901ff48144e83232abde2f8d43a06",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P22.md": {
+      "raw_hash": "b9da5144cdb953079008986dc33a7e6ae82291b36736e4cadefe81bce849701d",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    "P23.md": {
+      "raw_hash": "cbf73ad578b5d883a000a1bb21045cb264b9dfbb957c8df75d1dcfcb88c780a7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P24.md": {
+      "raw_hash": "63b854ef4810e66ffe9c2b968b4f55183ddd4cce0e4ea7245ed0261620c431f7",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P25.md": {
+      "raw_hash": "af26e66fd46eb0be2535425acaad0af2f7e6cfa600c3a2782b1fa2408e7ff10a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P26.md": {
+      "raw_hash": "972db5330b3ccb6191ffe8e06eecfd457d9000e7c5db91b2e761cb2a80e31850",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P27.md": {
+      "raw_hash": "bb2a37e04b027cbf669de070dd210b05db8e01e8cb7a5fc5c97ceafb0be68ec1",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P28.md": {
+      "raw_hash": "da2eaeb08d0022b60ea94b85a756522cc6b729ec98dd252ca33953f10a516b9d",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P32.md": {
+      "raw_hash": "4b1b1d9885cf74192add11ebeeb25c73e8efb2bef5f9aa68b0f6f3bd3a190d4c",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P33.md": {
+      "raw_hash": "dfda0cb99ce05171c35f51a8feae29595080ab038940a5b6bfbaa7a82fcb3ecf",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P34.md": {
+      "raw_hash": "667b2e0bfc2d313782ffb9e9b4a2830e0285fd03cfa0ed7d8548c75174977abf",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P35.md": {
+      "raw_hash": "3e81c54e88e5debba99bb5540574bd4fde582e9bf39c85702a9ff010f2cc8261",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P36.md": {
+      "raw_hash": "ac5ff0949c92b9fcc2cf56f185fd319669c05ac515457f5def3d1b4f0b3ab291",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P41.md": {
+      "raw_hash": "87b0a3ab365cb07e76709a10d76940b1d3c3a8762e477ad7f79e802dc1bbb5fd",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P42.md": {
+      "raw_hash": "71c8678400ddc46e384738b0dfc5aa5527ddb0fcb1757dd38816521216dd2eb6",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P43.md": {
+      "raw_hash": "fdd5c25057d5347eb381290f4a0dc9b1a063eb0b1cc29bfee39fcab953b63734",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P44.md": {
+      "raw_hash": "1fb8a5b0265635fa1028a803eab5b213e1326103bf54855178800883b06b32eb",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P45.md": {
+      "raw_hash": "c99478f5aa09869ed0748352e28ac767b54a46ac60551d8a5cf06c9318fd5820",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P46.md": {
+      "raw_hash": "9c5e309bdf135ae7b61a0a5b6738a459e98059c332948458a0b1bc231f0d1b0a",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P47.md": {
+      "raw_hash": "36662f96c9d95d493f424dc1183be2d55d536d67c2dda83a2483c0a82ebe9858",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P48.md": {
+      "raw_hash": "e4898eec17dc465cabee4f4ce454ed02b7e648019c5f2a6b3afdca8e5669f2d8",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    },
+    "P49.md": {
+      "raw_hash": "fcdbf2f52f22546aa0903ad24b54db729760abc5da650cc9cf735a26a598a838",
+      "supplied_language": "en",
+      "detected_language": "en",
+      "effective_language": "en",
+      "model_probability": 1.0,
+      "method": "csv_retained"
+    }
+  },
+  "corrections": [
+    {
+      "filename": "D1c730f5fe6.md",
+      "raw_hash": "1e87d0cb12d0b3beb2a2abedac4c633f0d9cf94dbfb41aaa4d4f4b0cc5128d84",
+      "supplied_language": "en",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    {
+      "filename": "D3f13adccf5.md",
+      "raw_hash": "889c75e60bdedf7313a56937c70bf03538a762930800ba828a67e8678a26a489",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    {
+      "filename": "D40369c9b91.md",
+      "raw_hash": "073b93698afdb3bdc57271654bd859485ae0ff24000142ccf338f04c8426d5a3",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    {
+      "filename": "D8aa6e6503b.md",
+      "raw_hash": "7617f90d608a106f56ffdcfe890f415fa517082e572b39692eecb1b85237c205",
+      "supplied_language": "en",
+      "detected_language": "es",
+      "effective_language": "es",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    {
+      "filename": "Dd19d457d52.md",
+      "raw_hash": "108a4a9beaec4dadf676ad19e219f78b4a5b204a1feda8275a7fcbfb072fe821",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    {
+      "filename": "De5b2f33ffa.md",
+      "raw_hash": "018acc3238353104bbe3f1a5fd18afa37982f76c520568a4c12aa4e7d797ebcb",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    {
+      "filename": "Dfb721c01fd.md",
+      "raw_hash": "4327c1c1d137703677736ae07d897c06fc423ba94bac773b15d7a1465874d044",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    },
+    {
+      "filename": "P22.md",
+      "raw_hash": "b9da5144cdb953079008986dc33a7e6ae82291b36736e4cadefe81bce849701d",
+      "supplied_language": "en",
+      "detected_language": "fr",
+      "effective_language": "fr",
+      "model_probability": 1.0,
+      "method": "offline_langid_high_certainty"
+    }
+  ]
+}
